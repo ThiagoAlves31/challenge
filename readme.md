@@ -8,7 +8,7 @@ Dependências:
 
 #### Siga os passos abaixo para subir o projeto:
 ```
-git clone https://github.com/ThiagoAlves31/deshealth.git
+git clone https://github.com/ThiagoAlves31/challenge.git
 ```
 ```
 cd deshealth
