@@ -11,7 +11,7 @@ Dependências:
 git clone https://github.com/ThiagoAlves31/challenge.git
 ```
 ```
-cd deshealth
+cd challenge
 ```
 ```
 cp .env-example .env
